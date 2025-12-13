@@ -4,8 +4,8 @@
 
 [![Betriebssystem](https://img.shields.io/badge/OS-Debian%20%2F%20Ubuntu-blue?style=for-the-badge&logo=debian)](https://www.debian.org/)
 [![Java-Version](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)](https://www.java.com/)
-[![GitHub-Repo-Größe](https://img.shields.io/github/repo-size/hehljo/Minecraft?style=for-the-badge&logo=github)](https://github.com/hehljo/Minecraft)
-[![Lizenz](https://img.shields.io/badge/Lizenz-MIT-green?style=for-the-badge)](https://github.com/hehljo/Minecraft/blob/main/LICENSE)
+[![GitHub-Repo-Größe](https://img.shields.io/github/repo-size/hehljo/Minecraft-PaperMC-Installer?style=for-the-badge&logo=github)](https://github.com/hehljo/Minecraft-PaperMC-Installer)
+[![Lizenz](https://img.shields.io/badge/Lizenz-MIT-green?style=for-the-badge)](https://github.com/hehljo/Minecraft-PaperMC-Installer/blob/main/LICENSE)
 
 <a href="https://buymeacoffee.com/pommesbude" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
