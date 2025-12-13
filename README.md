@@ -11,6 +11,34 @@
 
 Ein vollautomatisches, interaktives Skript zur Installation eines leistungsstarken und stabilen Minecraft-Servers auf jedem Debian-basierten System (inkl. Proxmox LXC).
 
+---
+
+## 📑 Inhaltsverzeichnis
+
+### 🚀 Schnellstart
+- [⚡ Installation](#-installation) - Ein-Befehl-Setup in 5 Minuten
+- [🛠️ Erste Schritte](#️-nach-der-installation-erste-schritte) - Server verbinden & Admin-Rechte
+- [⚙️ Server-Befehle](#️-server-verwaltung-im-detail) - mc-start, mc-stop, mc-console, etc.
+
+### 📖 Dokumentation
+- [🔗 Kompatibilität](#-kompatibilität) - Getestete Versionen (Paper, Bedrock, Geyser)
+- [⭐ Features](#-features) - Was kann der Installer?
+- [✅ Funktions-Tests](#-funktions-test-für-server-admins) - Plugins testen & konfigurieren
+
+### 🎮 Erweiterte Funktionen
+- [🔒 Server-Zugang](#-server-zugang-beschränken-whitelist--passwortschutz) - Whitelist & Passwortschutz
+- [📦 Welt-Migration](#-welt-migration-singleplayer-und-server-welten-importieren) - Welten importieren (Singleplayer/Server)
+- [🌍 MultiWorld-Setup](#-praxis-anleitung-multiworld-mit-eigenen-welten-testen) - Mehrere Welten verwalten
+- [🗺️ OneBlock-Welt](#-oneblock-welt-erstellen-anleitung) - OneBlock-Gamemode einrichten
+- [🌐 Pl3xMap-Setup](#️-multi-world-map-ansicht-mehrere-welten-in-pl3xmap) - Karten für alle Welten
+
+### 🔧 Wartung
+- [🔄 Server aktualisieren](#-server-aktualisieren) - Paper & Plugins updaten
+- [🗑️ Deinstallation](#️-deinstallation) - Server sauber entfernen
+- [❓ FAQ & Troubleshooting](#-faq--troubleshooting) - Häufige Probleme lösen
+
+---
+
 ## 🔗 Kompatibilität
 
 **Getestet mit:**

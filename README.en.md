@@ -15,6 +15,24 @@
 
 ---
 
+## 📑 Table of Contents
+
+### 🚀 Quick Access
+- [⚡ Quick Start](#-quick-start) - One-command installation
+- [🚀 After Installation](#-after-installation) - Connect & setup admin rights
+- [🔄 Update Server](#-update-your-server) - Update Paper & plugins
+- [🗑️ Uninstall](#️-uninstall) - Clean removal
+
+### 📖 Documentation
+- [🔗 Compatibility](#-compatibility) - Tested versions (Paper, Bedrock, Geyser)
+- [⭐ Key Features](#-key-features) - What's included?
+- [📋 Requirements](#-requirements) - System requirements
+
+### 🎮 Advanced Features
+For detailed guides on world migration, MultiWorld setup, OneBlock worlds, and multi-world maps, see the [German README](README.md) (translate in browser).
+
+---
+
 ## 🔗 Compatibility
 
 **Tested with:**
